@@ -28,6 +28,7 @@ Learning what z-index was and where to place them was a real research kick in th
 ![Tablet 2](https://github.com/bunnyleesworld/CCProject-1/assets/115892897/c2dfd4f5-6d8d-4d62-b658-277b646bbed6)
 
 Mobile:
+
 ![Mobile Main Page](https://github.com/bunnyleesworld/CCProject-1/assets/115892897/57c95e40-4104-43ac-8015-f53f8b965269)
 ![Mobile 4](https://github.com/bunnyleesworld/CCProject-1/assets/115892897/d8c8a3b5-1656-487e-b5f7-668ecbce14b8)
 ![Mobile 1](https://github.com/bunnyleesworld/CCProject-1/assets/115892897/1e4b88cb-8769-4497-b5f4-9e382d1f9442)
